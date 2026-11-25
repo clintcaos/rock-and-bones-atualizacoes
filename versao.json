@@ -1,23 +1,13 @@
 {
-    "base":  1,
+    "base":  2,
     "windows":  {
                     "patches":  [
-                                    {
-                                        "n":  1,
-                                        "arquivo":  "windows/patch_001.pck",
-                                        "bytes":  216,
-                                        "sha256":  "da747ea16bd77c6d0281f12e4a03161995fbdc867c6d3f1575a6a7fdac3e862e"
-                                    }
+
                                 ]
                 },
     "android":  {
                     "patches":  [
-                                    {
-                                        "n":  1,
-                                        "arquivo":  "android/patch_001.pck",
-                                        "bytes":  216,
-                                        "sha256":  "da747ea16bd77c6d0281f12e4a03161995fbdc867c6d3f1575a6a7fdac3e862e"
-                                    }
+
                                 ]
                 }
 }
