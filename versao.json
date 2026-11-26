@@ -37,6 +37,12 @@
                                         "arquivo":  "windows/patch_006.pck",
                                         "bytes":  6475504,
                                         "sha256":  "2b86b497e925e2aecf3a1c9e93cf9925dc319151a19fac4381497d3171413d8a"
+                                    },
+                                    {
+                                        "n":  7,
+                                        "arquivo":  "windows/patch_007.pck",
+                                        "bytes":  82244,
+                                        "sha256":  "ad8a52b36f5f7efbcd54a3095e8b38c2aac4beb4968cc5645dc856abf45459ce"
                                     }
                                 ]
                 },
@@ -77,6 +83,12 @@
                                         "arquivo":  "android/patch_006.pck",
                                         "bytes":  6475504,
                                         "sha256":  "2b86b497e925e2aecf3a1c9e93cf9925dc319151a19fac4381497d3171413d8a"
+                                    },
+                                    {
+                                        "n":  7,
+                                        "arquivo":  "android/patch_007.pck",
+                                        "bytes":  82244,
+                                        "sha256":  "ad8a52b36f5f7efbcd54a3095e8b38c2aac4beb4968cc5645dc856abf45459ce"
                                     }
                                 ]
                 }
