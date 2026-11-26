@@ -1,59 +1,13 @@
 {
-    "base":  2,
+    "base":  3,
     "windows":  {
                     "patches":  [
-                                    {
-                                        "n":  1,
-                                        "arquivo":  "windows/patch_001.pck",
-                                        "bytes":  216,
-                                        "sha256":  "da747ea16bd77c6d0281f12e4a03161995fbdc867c6d3f1575a6a7fdac3e862e"
-                                    },
-                                    {
-                                        "n":  2,
-                                        "arquivo":  "windows/patch_002.pck",
-                                        "bytes":  3038144,
-                                        "sha256":  "f5277eb3ecf22a3c7c5f586b47eea8b88245dc57251518817f246a4dfe436bea"
-                                    },
-                                    {
-                                        "n":  3,
-                                        "arquivo":  "windows/patch_003.pck",
-                                        "bytes":  1907220,
-                                        "sha256":  "5c60a5197683926568249fd0b4e174ae981472e371b16b39756e4947b941dafb"
-                                    },
-                                    {
-                                        "n":  4,
-                                        "arquivo":  "windows/patch_004.pck",
-                                        "bytes":  66806188,
-                                        "sha256":  "d45e3166fd4495e057b2369d42d4485fd2b6ba875d1b60b4063ae262398810d0"
-                                    }
+
                                 ]
                 },
     "android":  {
                     "patches":  [
-                                    {
-                                        "n":  1,
-                                        "arquivo":  "android/patch_001.pck",
-                                        "bytes":  216,
-                                        "sha256":  "da747ea16bd77c6d0281f12e4a03161995fbdc867c6d3f1575a6a7fdac3e862e"
-                                    },
-                                    {
-                                        "n":  2,
-                                        "arquivo":  "android/patch_002.pck",
-                                        "bytes":  3038144,
-                                        "sha256":  "f5277eb3ecf22a3c7c5f586b47eea8b88245dc57251518817f246a4dfe436bea"
-                                    },
-                                    {
-                                        "n":  3,
-                                        "arquivo":  "android/patch_003.pck",
-                                        "bytes":  1907220,
-                                        "sha256":  "5c60a5197683926568249fd0b4e174ae981472e371b16b39756e4947b941dafb"
-                                    },
-                                    {
-                                        "n":  4,
-                                        "arquivo":  "android/patch_004.pck",
-                                        "bytes":  66806188,
-                                        "sha256":  "d45e3166fd4495e057b2369d42d4485fd2b6ba875d1b60b4063ae262398810d0"
-                                    }
+
                                 ]
                 }
 }
